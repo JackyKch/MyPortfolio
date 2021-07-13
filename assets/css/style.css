@@ -1343,6 +1343,10 @@ section {
   margin-bottom: 20px;
 }
 
+.art_content li{
+  font-size: 15px;
+}
+
 .two_images_columns {
   float: left;
   width: 50%;
@@ -1403,6 +1407,7 @@ section {
   color: #0563bb;
   letter-spacing: 1px;
 }
+
 
 @media (max-width: 992px) {
   #article_son {
