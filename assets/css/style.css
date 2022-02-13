@@ -1337,10 +1337,12 @@ section {
 }
 .art_content h4{
   font-family: 'Raleway', serif;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 600;
   margin-top: 20px;
   margin-bottom: 20px;
+  text-align: center;
+  font-style: italic;
 }
 
 .art_content li{
