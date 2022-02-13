@@ -1344,6 +1344,14 @@ section {
   text-align: center;
   font-style: italic;
 }
+.art_content h5{
+  font-family: 'Raleway', serif;
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 .art_content li{
   font-size: 15px;
